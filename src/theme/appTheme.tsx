@@ -26,12 +26,12 @@ export const styles = StyleSheet.create({
         fontSize: 30,
         textAlign: 'right',
     },
-    // fila: {
-    //     flexDirection: 'row',
-    //     justifyContent: 'center',
-    //     marginBottom: 18,
-    //     paddingHorizontal: 10
-    // },
+    fila: {
+        flexDirection: 'row',
+        justifyContent: 'center',
+        marginBottom: 18,
+        paddingHorizontal: 10
+    },
     boton: {
         height: 80,
         width: 80,
